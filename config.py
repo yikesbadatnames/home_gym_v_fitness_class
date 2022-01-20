@@ -1,0 +1,5 @@
+password = "Buddydog"
+port = "5432"
+address = "127.0.0.1"
+name = "tempo_proj_db"
+user = "postgres"
